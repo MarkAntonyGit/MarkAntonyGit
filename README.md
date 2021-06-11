@@ -1,6 +1,6 @@
 ## Hi Geeks, 👋
 
-<img src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/welcome2.gif" alt="Welcome!" width="15000"/>
+<img src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/welcome2.gif" alt="Welcome!" width="13000"/>
 
 </div>
 
