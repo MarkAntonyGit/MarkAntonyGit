@@ -48,4 +48,4 @@ A little more about me...
 
 <p align="center">
 <a href="mailto:markantony.alenchery@gmail.com"><img src="https://img.shields.io/badge/-markantony.alenchery@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/Profile-MarkAntony"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
+<a href="https://www.linkedin.com/in/Profile-MarkAntony"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
