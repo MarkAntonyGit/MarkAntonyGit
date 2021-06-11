@@ -1,8 +1,15 @@
-<div align="center">
-    <h1><img 
-                 src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/Git_welcome.gif" width="30px"> </h1>           
+### Hi Geeks, 👋
+
+<img src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/Git_welcome.gif" alt="Welcome!" width="15000"/>
+
 </div>
-<div align="center" width="50">
+
+![](https://visitor-badge.laobi.icu/badge?page_id=MarkAntonyGit) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/MarkAntonyGit)
+
+
+
+A little more about me...
+
 
 
 <!--
