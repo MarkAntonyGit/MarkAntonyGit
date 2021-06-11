@@ -1,41 +1,51 @@
 ## Hi Geeks, 👋
 
-<img src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/welcome2.gif" alt="Welcome!" width="13000"/>
-
-</div>
-
+##### Welcome to my GitHub,
+--
 ![](https://visitor-badge.laobi.icu/badge?page_id=MarkAntonyGit) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/MarkAntonyGit)
-
-
 
 A little more about me...
 
+```
+---
+- Name: Mark Antony
+  hosts: GitHub
+  become: true
+    - Cloud platform:
+        - AWS
+    - Operating Systems:
+        - Red Hat Linux Release 6.x, 7, & 8
+        - Ubuntu 18.04, 20.04
+        - Cent OS 6.x, 7    
+    - Scripting:
+        - Bash
+        - Python    
+    - Infrastucture As a Code:
+        - Terraform
+        - Ansible
+    - Software Provisioning/Configuration Management:
+        - Ansible
+    - Machine Image As a Code: 
+        - Packer
+    - Source Code Management/Version Control:
+        - Git
+    - Continous Integeration/Contious Deployment:
+        - Jenkins
+    - Containerization:
+        - Docker
+    - Monitoring:
+        - Nagios
+        - Zabbix
+        - PRTG
+        - AWS Cloud Watch
+```     
 
-### Hi Geeks, 👋
+### ⚙️ GitHub Analytics
 
-<img src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/Git_welcome.gif" alt="Welcome!" width="15000"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=MarkAntonyGit&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkantonyGit&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
 
-</div>
+### ⚙️ Connect with Me
 
-![](https://visitor-badge.laobi.icu/badge?page_id=MarkAntonyGit) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/MarkAntonyGit)
-
-
-
-A little more about me...
-
-
-
-<!--
-**MarkAntonyGit/MarkAntonyGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="mailto:markantony.alenchery@gmail.com"><img src="https://img.shields.io/badge/-markantony.alenchery@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mark-antony-345473211https://www.linkedin.com/in/mark-antony-345473211"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
