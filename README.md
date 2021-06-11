@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# <div align="center">
+<div align="center">
     <h1><img 
                  src="https://github.com/MarkAntonyGit/MarkAntonyGit/blob/main/Uploads/Gifs/Git_welcome.gif" width="30px"> </h1>           
 </div>
