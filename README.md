@@ -1,8 +1,8 @@
 ## Hi Geeks, 👋
 
 ##### Welcome to my GitHub,
---
-![](https://visitor-badge.laobi.icu/badge?page_id=MarkAntonyGit) [![Github](https://img.shields.io/github/followers/vyshnavlal?label=Follow&style=social)](https://github.com/MarkAntonyGit)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=MarkAntonyGit) [![Github](https://img.shields.io/github/followers/MarkAntonyGit?label=Follow&style=social)](https://github.com/MarkAntonyGit)
 
 A little more about me...
 
