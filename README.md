@@ -12,7 +12,7 @@ A little more about me...
   hosts: GitHub
   become: true
     - Cloud platform:
-        - AWS
+        - AWS , Azure , GCP
     - Operating Systems:
         - Red Hat Linux Release 6.x, 7, & 8
         - Ubuntu 18.04, 20.04
@@ -28,15 +28,27 @@ A little more about me...
     - Machine Image As a Code: 
         - Packer
     - Source Code Management/Version Control:
-        - Git
+        - Git Hub
+        - Bitbucket
+        - Gitlab
+        - Azure Devops
     - Continous Integeration/Contious Deployment:
         - Jenkins
+        - Bitbucket Pipeline
+        - Gitlab Pipeline
+        - Azure DevOps Pipeline
     - Containerization:
         - Docker
+    - Container Orchestration
+        - Kubernetes
+        - Docker Swarm
     - Monitoring:
+        - Prometheus
+        - Grafana
+        - Instana
+        - Loki
         - Nagios
         - Zabbix
-        - PRTG
         - AWS Cloud Watch
 ```     
 
